@@ -1,11 +1,11 @@
-baseURL = 'https://roneo.itcouldbewor.se/'
+baseURL = 'https://www.cironet.eu/'
 languageCode = 'en-us'
 defaultContentLanguage = 'en'
 
 
 [params]
-  title = 'Remix, a theme for Hugo fully editable with Netlify CMS'
-  metaDescription = "Hugo + Netlify CMS + One click deploy to Netlify"
+  title = 'cironet data security | bitcoin and lightning'
+  metaDescription = "headless and static file solution"
 
 
 # Languages
