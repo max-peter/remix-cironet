@@ -9,7 +9,7 @@ en:
     → It's free and open-source!
   image: /media/security.jpg
   copyright: "  © 2023 - cironet"
-  register: Roneo.org
+  register: cironet.eu
   registerUrl: https://roneo.org/en
 fr:
   image: /media/security.jpg
@@ -17,5 +17,5 @@ fr:
   slogan: Lorem magna eiusmod ea eu irure exercitation non incididunt.
   shortDescription: « Quis do pariatur quis nostrud elit in»
   copyright: "  © 2023 - cironet"
-  register: Roneo.org
+  register: cironet.eu
   registerUrl: https://roneo.org/en
