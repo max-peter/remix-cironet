@@ -4,7 +4,7 @@ title: Free and open-source
 theme:
   - c2
 image: /static/media/titanium-dioxide.jpg
-summary: "Excepteur ut pariatur commodo nisi"
+summary: Free and open-source FR
 ---
 
 License: Apache
