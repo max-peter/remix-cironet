@@ -7,7 +7,6 @@ image: /static/media/titanium-dioxide.jpg
 summary: Free and open-source FR
 ---
 
-License: Apache
 
 ![](/media/license-apache.png)
 
