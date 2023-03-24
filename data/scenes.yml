@@ -1,8 +1,7 @@
 en:
   title: Custom <span>Solutions</span>
   backgroundTitle: Solutions
-  portText: In tempor esse aute sint Lorem. Dolor velit qui anim sunt mollit
-    excepteur ipsum mollit quis.
+  portText: "Here are our industry solutions that have helped many customers."
   scenes:
     - coverImage: /media/laptop-loading.svg
       name: Performance
@@ -13,47 +12,44 @@ en:
       name: Documentation
       cSlug: s2
       icon: fa-book
-      description: Occaecat velit elit consectetur adipisicing.
+      description: Chose the right sources.
     - coverImage: /media/security_svg.svg
       name: Security
       cSlug: s3
       icon: fa-lock
-      description: Caecat velit elit consectetur adipisicing.
+      description: It is all about security.
     - coverImage: /media/web_svg.svg
       name: Multilingue
       cSlug: s2
       icon: fa-globe
-      description: Velit elit consectetur adipisicing occaecat.
+      description: Multiple Languages.
     - coverImage: /media/telemedicine_svg.svg
       name: Relation
       cSlug: s4
-      description: Adipisicing ullamco ex id deserunt ea adipisicing. Enim in sint non
-        reprehenderit sunt aliquip sunt et dolore ipsum nisi aute. Cupidatat
-        pariatur pariatur occaecat eiusmod magna aute aliqua exercitation.
-        Exercitation et amet nisi sunt id sit ex eiusmod sit deserunt.
+      description: Telemedicine.
       icon: fa-heart
 fr:
   title: <span>Solutions</span> by Industry
   backgroundTitle: Welcome
-  portText: " Here are our industry solutions that have helped many customers"
+  portText: "Here are our industry solutions that have helped many customers"
   scenes:
     - coverImage: /media/scene1.jpg
-      name: 化工
+      name: Bitcoin
       icon: fa-person-digging
       cSlug: s1
       description: Cellulose ethers comprise methylcellulose
     - coverImage: /media/scene1.jpg
-      name: 食品
+      name: Lightning
       icon: fa-burger
       cSlug: s2
-      description: Cellulose ethers comprise methylcellulose
+      description: the bitcoin lightning network
     - coverImage: /media/scene1.jpg
-      name: 石油
+      name: Crypto
       cSlug: s3
       icon: fa-oil-well
-      description: Cellulose ethers comprise methylcellulose,
+      description: crypto summary
     - coverImage: /media/scene1.jpg
-      name: 制药
+      name: Cloud
       cSlug: s4
       icon: fa-capsules
-      description: Cellulose ethers comprise methylcellulose
+      description: cloud summary
