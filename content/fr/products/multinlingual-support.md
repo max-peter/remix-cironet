@@ -2,7 +2,7 @@
 title: Multilingual support
 theme:
   - c5
-image: /media/wave.jpg
+image: /media/brainstorming.jpg
 summary: |-
   
   Multilingual support
