@@ -5,7 +5,7 @@ defaultContentLanguage = 'en'
 
 [params]
   title = 'cironet data security | bitcoin and lightning'
-  metaDescription = "headless and static file solution"
+  metaDescription = "code is law"
 
 
 # Languages
@@ -16,13 +16,26 @@ contentDir = "content/english"
 weight = 1
 mark = "EN"
 
+[Languages.de]
+languageName = "de"
+languageCode = "de-de"
+contentDir = "content/de"
+weight = 2
+mark = "de"
+
+[Languages.se]
+languageName = "se"
+languageCode = "se-se"
+contentDir = "content/se"
+weight = 3
+mark = "se"
+
 [Languages.fr]
 languageName = "fr"
 languageCode = "fr-fr"
 contentDir = "content/fr"
-weight = 2
+weight = 4
 mark = "FR"
-
 
 [taxonomies]
   category= "theme"
