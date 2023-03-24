@@ -7,7 +7,6 @@ defaultContentLanguage = 'en'
   title = 'cironet data security | bitcoin and lightning'
   metaDescription = "code is law"
 
-
 # Languages
 [Languages.en]
 languageName = "En"
